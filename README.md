@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Repository for my Getting and Cleaning Data Course Project at Coursera
+Repository for my Data Science course at Coursera
